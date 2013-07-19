@@ -1,0 +1,28 @@
+{
+  "private": "true",
+  "name": "progger",
+  "version": "0.1.0",
+  "description": "Colorful progress meter for events of unknown time & magnitude.",
+  "main": "./lib/progger.js",
+  "keywords": [
+    "progress",
+    "meter",
+    "loading",
+    "dots"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okize/progger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/okize/progger/issues"
+  },
+  "homepage": "https://github.com/okize/progger/",
+  "author": "Morgan Wigmanich <okize123@gmail.com> (https://github.com/okize)",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
