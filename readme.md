@@ -45,3 +45,6 @@ npm install progger
 # license
 
 MIT
+
+
+[![NPM](https://nodei.co/npm/progger.png)](https://nodei.co/npm/progger/)
