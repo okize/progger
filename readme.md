@@ -1,15 +1,17 @@
-[![NPM version](https://badge.fury.io/js/progger.png)](http://badge.fury.io/js/progger)
-
-# progger
+# progger [![NPM version](https://badge.fury.io/js/progger.png)](http://badge.fury.io/js/progger)
 
 Progress meter for events of unknown time &amp; magnitude. Like, say, you've got a series of http requests that you don't know when will return data.
 
-# example
+## Example
 
 ``` js
 var Progger = require('progger');
 
-var p = new Progger();
+var p = new Progger({
+  speed: 50,
+  token: '*',
+  color: 'red'
+});
 
 p.start();
 
@@ -18,31 +20,28 @@ setTimeout(function() {
 }, 5000);
 ```
 
-# methods
+## Methods
 
 ``` js
 var launcher = require('launcher')
 ```
 
-## start()
+### start()
 
 Starts a progress ticker in your terminal.
 
-## stop()
+### stop()
 
 Stops the progress ticker.
 
-
-
-# install
+## Install
 
 ```
 npm install progger
 ```
 
-# license
+## License
 
-MIT
-
+Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
 [![NPM](https://nodei.co/npm/progger.png)](https://nodei.co/npm/progger/)
