@@ -9,9 +9,6 @@
     "loading",
     "dots"
   ],
-  "dependencies": {
-    "colors": "0.6.x"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/okize/progger.git"
