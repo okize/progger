@@ -1,4 +1,4 @@
-# progger [![NPM version](https://badge.fury.io/js/progger.png)](http://badge.fury.io/js/progger)
+# progger [![NPM version](https://badge.fury.io/js/progger.png)](http://badge.fury.io/js/progger) [![NPM version](https://david-dm.org/okize/progger.png)](https://david-dm.org/okize/progger)
 
 Progress meter for events of unknown time &amp; magnitude. Like, say, you've got a series of http requests that you don't know when will return data.
 
