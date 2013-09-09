@@ -34,6 +34,10 @@ Starts a progress ticker in your terminal.
 
 Stops the progress ticker.
 
+### isRunning()
+
+Returns boolean for ticker status
+
 ## Install
 
 ```
