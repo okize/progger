@@ -7,7 +7,6 @@ var pride = new Progger({
 });
 
 pride.start();
-
 setTimeout(function() {
   pride.stop();
 }, 5000);
