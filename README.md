@@ -1,4 +1,9 @@
-# progger [![NPM version](https://badge.fury.io/js/progger.png)](http://badge.fury.io/js/progger) [![NPM version](https://david-dm.org/okize/progger.png)](https://david-dm.org/okize/progger)
+[![NPM version](http://img.shields.io/npm/v/progger.svg?style=flat)](https://www.npmjs.org/package/progger)
+[![Build Status](http://img.shields.io/travis/okize/progger.svg?style=flat)](https://travis-ci.org/okize/progger)
+[![Dependency Status](http://img.shields.io/david/okize/progger.svg?style=flat)](https://david-dm.org/okize/progger)
+[![Downloads](http://img.shields.io/npm/dm/progger.svg?style=flat)](https://www.npmjs.org/package/progger)
+
+# Progger
 
 Progress meter for events of unknown time &amp; magnitude. Like, say, you've got a series of http requests that you don't know when will return data.
 
@@ -47,5 +52,3 @@ npm install progger
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
-
-[![NPM](https://nodei.co/npm/progger.png)](https://nodei.co/npm/progger/)
