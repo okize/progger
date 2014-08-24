@@ -1,5 +1,4 @@
 [![NPM version](http://img.shields.io/npm/v/progger.svg?style=flat)](https://www.npmjs.org/package/progger)
-[![Build Status](http://img.shields.io/travis/okize/progger.svg?style=flat)](https://travis-ci.org/okize/progger)
 [![Dependency Status](http://img.shields.io/david/okize/progger.svg?style=flat)](https://david-dm.org/okize/progger)
 [![Downloads](http://img.shields.io/npm/dm/progger.svg?style=flat)](https://www.npmjs.org/package/progger)
 
