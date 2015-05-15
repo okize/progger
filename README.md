@@ -4,7 +4,9 @@
 
 # Progger
 
-Progress meter for events of unknown time &amp; magnitude. Like, say, you've got a series of http requests that you don't know when will return data.
+Colorful CLI progress meter for events of unknown time & magnitude.
+
+For example, this could be useful if you have a series of http requests and you want to indicate activity but you can't display a percent meter because it's impossible to know at what point data will be returned.
 
 ## Example
 
