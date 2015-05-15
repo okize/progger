@@ -1,6 +1,6 @@
 {
   "name": "progger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colorful CLI progress meter for events of unknown time & magnitude.",
   "main": "./lib/progger.js",
   "keywords": [
