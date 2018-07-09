@@ -21,6 +21,12 @@
   "author": "Morgan Wigmanich <okize123@gmail.com> (https://github.com/okize)",
   "license": "MIT",
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=0.8.28"
+  },
+  "scripts": {
+    "example": "node ./example/simple",
+    "example-multiple": "node ./example/multiple",
+    "example-pride": "node ./example/pride",
+    "example-beep": "node ./example/beep"
   }
 }
