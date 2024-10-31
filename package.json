@@ -20,13 +20,10 @@
   "homepage": "https://github.com/okize/progger/",
   "author": "Morgan Wigmanich <okize123@gmail.com> (https://github.com/okize)",
   "license": "MIT",
-  "engines": {
-    "node": ">=0.8.28"
-  },
   "scripts": {
-    "example": "node ./example/simple",
-    "example-multiple": "node ./example/multiple",
-    "example-pride": "node ./example/pride",
-    "example-beep": "node ./example/beep"
+    "example": "node ./examples/simple",
+    "example:multiple": "node ./examples/multiple",
+    "example:pride": "node ./examples/pride",
+    "example:beep": "node ./examples/beep"
   }
 }
